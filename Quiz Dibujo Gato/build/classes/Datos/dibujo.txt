@@ -1,0 +1,2 @@
+Tipo;X1;Y1;Ancho o X2;Alto o Y2
+;0;0;0;0
